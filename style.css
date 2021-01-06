@@ -1,0 +1,149 @@
+body{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;  
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.hire-me-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightgreen, green);
+    padding: 10px 30px;
+    border-radius: 5%;
+    color: white;
+}
+.heading-section-3{
+    text-align: center;
+}
+.section-3{
+    background-color: #F8F9FC;
+    align-items: center;
+    padding: 1%;
+    height: 650px;
+}
+.section-3-div{
+    width: 28%;
+    height: 60%;
+    float: left;
+    margin: 2% 2%;
+    padding-left: 1%;
+    padding-top: 1%;
+
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 15px;
+    background-color: white;
+    background-position: center;
+    align-items: center;
+}
+.section-3-div-img{
+    width: 350px;
+    height: 220px;
+}
+.LASTET-the-word{
+    color: red;
+}
+.section-4{
+    background-image: url("images/section4back.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 60%;
+    height: 130px;
+    margin-left: 20%;
+    margin-right: 25%;
+    margin-top: 80px;
+}
+.section-4-div-text{
+    width: 45%;
+    height: 80px;
+    float: left;
+    margin: 2% 2%;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+.section-4-div-button{
+    width: 45%;
+    height: 80px;
+    float: left;
+    margin-top: 11%;
+    margin-left: 3%;
+}
+.lets-chat-button{
+    text-decoration: none;
+    background-color :#FB7462;
+    padding: 17px 27px;
+    border-radius: 7%;
+    color: white;
+    margin-top: 12%;
+    margin-left: 50%;
+}
+.WORK-INQUIRY{
+    text-align: center;
+    color: white;
+    margin-left: 10%;
+    margin-top: 15%;
+}
+
+.section-5{
+    background-color: rgb(214, 229, 250);
+    width: 100%;
+    height: 260px;
+}
+.section-5 h2{
+    font-size: 40px;
+    font-family: monospace;
+    text-align: center;
+    background-image: linear-gradient(45deg, white, black);
+    padding: 10px 30px;
+    border-radius: 5%;
+    color: white;
+}
+.section-5 li{
+    width: 90;
+    height: 10%;
+    margin: 1%;
+    background-color: rgb(221, 232, 252);
+    font-size: 25px;
+    text-align: center;
+    color: darkorchid;
+}
+.footer-stay-connected{
+    color: #696871;
+    font-size: 15px;
+}
+.hello-design{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+footer img{
+    height: 3%;
+    width: 3%;
+    margin: 1% 1%;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+}
